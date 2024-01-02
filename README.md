@@ -23,6 +23,6 @@ Este archivo de Mathematica está diseñado para calcular las Ecuaciones de Camp
 5. **Interpretación:** Utilice los resultados para análisis y aplicaciones en problemas de relatividad general.
 
 ## Soporte y Contacto
-En caso de dudas o problemas técnicos, puede contactar al creador del archivo a través de [insertar método de contacto].
+En caso de dudas o problemas técnicos, puede contactar al creador del archivo a través de lorenzo.orozco.garcia@gmail.com
 
 Este archivo es una herramienta poderosa para estudiantes y profesionales interesados en la teoría de la relatividad general y la física teórica. Su uso permite una comprensión más profunda y una exploración detallada de las fascinantes propiedades del espacio-tiempo y la gravedad.
